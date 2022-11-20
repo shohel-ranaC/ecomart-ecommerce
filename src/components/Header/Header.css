@@ -77,16 +77,16 @@
 }
 .nav__icons .profile .profile__actions{
     position: absolute;
-    top: 98%;
+    top: 97%;
     left: 0;
-    width: 150px;
+    width: 120px;
     z-index: 10;
     padding: 15px;
     display: flex;
     align-items: center;
     flex-direction: column;
     background: var(--card-bg-01);
-    line-height: 30px;
+    line-height: 25px;
     display: none;
     cursor: pointer;
 }
